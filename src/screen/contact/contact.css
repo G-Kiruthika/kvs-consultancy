@@ -1,0 +1,95 @@
+.contact-header-wrapper{
+    width: 100%;
+    height: 450px;
+    color: white;
+    background-image: url("../../images/home-wrapper1.jpg");
+    background-size: cover;
+    
+}
+.contact-header-overlay{
+    width: 100%;
+  height: 100%;
+  background: linear-gradient(170deg, rgb(220, 211, 228,0.8), rgb(94,86,100, 0.9));
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.contact-header-title{
+    padding-top: 200px;
+}
+
+.contact-cards{
+    width: 100%;
+    position: relative;
+    background-image: url("../../images/designers-contact.jpg");
+    background-size: cover;
+}
+.contact-card1{
+    
+}
+.contact-card-btn{
+    transition: .4s;
+    display: flex;
+    justify-content: center;
+}
+.contact-card-btn:hover{
+    transform: scale(1.2);
+}
+.contact-form-content{
+    width: 100%;
+}
+.contact-form-btn{
+    display: flex;
+    justify-content: center;
+}
+.form-control{
+   padding: 10px;
+   border-color: #4c4452;
+   border-width: 1px 1px 1px p1x;
+   border-style: solid;
+}
+.form-control:focus{
+    border-color: #dcd3e4;
+}
+.contact-submit-btn{
+    width: 300px;
+    padding: 10px;
+    border-radius: 7px;
+    border: none;
+    background-color: #4c4452;
+    color: white;
+}
+.contact-submit-btn:hover{
+    background-color: #dcd3e4;
+    color: #4c4452;
+}
+.contact-footer{
+    padding: 2rem 0;
+}
+.ft-1 h1{
+   font-weight: 700;
+   letter-spacing: 1px;
+}
+.ft-1 p{
+    padding: 1rem 2rem 1rem 0;
+ }
+.contact-footer-icon i{
+    padding: 0.5rem;
+    background-color: #dcd3e4;
+    color: #4c4452;
+    margin: 0 0.6rem;
+    border-radius: 8px;
+}
+.contact-footer h5{
+   letter-spacing: 0.5px;
+}
+.ft-2 ul{
+    padding-left: 0;
+    float: left;
+}
+.contact-footer-btn{
+    padding: 0.7rem;
+    border-radius: 10px 10px 10px 10px;
+    padding: 0.7rem;
+    color: #4c4452;
+    border: none;
+}

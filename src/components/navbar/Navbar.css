@@ -1,0 +1,11 @@
+.navbar-brand{
+    padding-left: 80px;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 30px;
+}
+.navbar-nav{
+    font-size: 20px;
+    margin-left: 700px;
+}
+

@@ -1,0 +1,15 @@
+.about-header{
+    background-image: url(../../images/Untitled.jpeg);
+    height: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.about-title{
+    padding-top: 200px;
+}
+.about-adv{
+    /* background-image: url('../../images/imageedit_18_5196716710.jpg'); */
+    opacity: 0.95;
+    background-color: transparent;
+    background-image: linear-gradient(170deg, #dcd3e4 0%, #4c4452 100%);
+}
